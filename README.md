@@ -1,4 +1,11 @@
 # Sample Snack app
+This project is developed by expo snack.
+The production is android/ios/web app for trading. default Username is 'User' and Password is 'password'.
+This app shows the runtime BTCUSD price and draw a graph
+
+enjoy it!
+
+-how to build-
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
