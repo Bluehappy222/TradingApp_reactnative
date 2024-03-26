@@ -2,6 +2,8 @@
 This project is developed by expo snack.
 The production is android/ios/web app for trading. default Username is 'User' and Password is 'password'.
 This app shows the runtime BTCUSD price and draw a graph
+![File Preview](login.png)
+![File Preview](main.png)
 
 enjoy it!
 
